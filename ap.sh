@@ -4,7 +4,7 @@
 # creation date: Mon Oct  1 23:54:19 2018
 
 # set subject and group identifiers
-set subj  = sub-02
+set subj  = 02
 set gname = test
 set session = test
 
